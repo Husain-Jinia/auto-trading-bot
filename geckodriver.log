@@ -1,0 +1,595 @@
+1676709814912	geckodriver	INFO	Listening on 127.0.0.1:59783
+1676709817972	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59784" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Husai\\AppData\\Local\\Temp\\rust_mozprofileCbZtEY"
+[Child 13192, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 18744, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4944, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2532, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2532, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1676709921616	geckodriver	INFO	Listening on 127.0.0.1:59948
+1676709924670	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59949" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Husai\\AppData\\Local\\Temp\\rust_mozprofilejM1a1W"
+[Child 5744, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5744, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20864, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16700, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16700, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 14208, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1676709967691	geckodriver	INFO	Listening on 127.0.0.1:60280
+1676709970742	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60281" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Husai\\AppData\\Local\\Temp\\rust_mozprofilejozRe6"
+1676710009497	geckodriver	INFO	Listening on 127.0.0.1:60326
+1676710012578	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60327" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Husai\\AppData\\Local\\Temp\\rust_mozprofileCgjrlE"
+1676710013396	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1676710013577	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1676710013577	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1676710013578	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1676710013578	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1676710023102	Marionette	INFO	Listening on port 60371
+DevTools listening on true
+1676710023181	Marionette	WARN	TLS certificate errors will be ignored for this session
+1676710047855	Marionette	INFO	Stopped listening on port 60371
+1676710061954	geckodriver	INFO	Listening on 127.0.0.1:60529
+1676710064978	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60530" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Husai\\AppData\\Local\\Temp\\rust_mozprofile2eJsGH"
+1676710065860	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1676710066014	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1676710066014	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1676710066014	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1676710066014	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1676710068706	Marionette	INFO	Listening on port 60537
+DevTools listening on true
+1676710069168	Marionette	WARN	TLS certificate errors will be ignored for this session
+1676710191271	Marionette	INFO	Stopped listening on port 60537
+1676710485770	geckodriver	INFO	Listening on 127.0.0.1:61054
+1676710488817	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61055" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Husai\\AppData\\Local\\Temp\\rust_mozprofileIiIAbW"
+1676710489556	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1676710489702	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1676710489702	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1676710489702	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1676710489702	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1676710492429	Marionette	INFO	Listening on port 61062
+DevTools listening on true
+1676710492490	Marionette	WARN	TLS certificate errors will be ignored for this session
+1676710521933	Marionette	INFO	Stopped listening on port 61061676710523978	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61157" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Husai\\AppData\\Local\\Temp\\rust_mozprofileAeDWlC"
+1676710524748	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1676710524897	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1676710524897	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1676710524897	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1676710524898	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1676710527559	Marionette	INFO	Listening on port 61162
+DevTools listening on true
+1676710527640	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1A0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+1676710692149	Marionette	INFO	Stopped listening on port 61162
+debugging-port" "61241" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Husai\\AppData\\Local\\Temp\\rust_mozprofileZDGgwQ"
+1676710553043	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1676710553227	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1676710553228	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1676710553228	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1676710553229	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1676710555964	Marionette	INFO	Listening on port 61246
+DevTools listening on true
+1676710556115	Marionette	WARN	TLS certificate errors will be ignored for this session
+1676710690608	Marionette	INFO	Stopped listening on port 61246
+1676710710519	geckodriver	INFO	Listening on 127.0.0.1:61462
+1676710713577	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61463" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Husai\\AppData\\Local\\Temp\\rust_mozprofileujGAgm"
+1676710714446	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1676710714588	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1676710714589	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1676710714589	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1676710714589	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1676710717252	Marionette	INFO	Listening on port 61470
+DevTools listening on true
+1676710717271	Marionette	WARN	TLS certificate errors will be ignored for this session
+1676710728639	Marionette	INFO	Stopped listening on port 61470
+1676711012971	geckodriver	INFO	Listening on 127.0.0.1:61818
+1676711016012	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61819" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Husai\\AppData\\Local\\Temp\\rust_mozprofilenPZHDC"
+1676711016581	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1676711016732	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1676711016732	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1676711016732	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1676711016732	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1676711019504	Marionette	INFO	Listening on port 61826
+DevTools listening on true
+1676711019695	Marionette	WARN	TLS certificate errors will be ignored for this session
+1676711108464	Marionette	INFO	Stopped listening on port 61826
+1676711113870	geckodriver	INFO	Listening on 127.0.0.1:61957
+1676711116945	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61958" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Husai\\AppData\\Local\\Temp\\rust_mozprofileKvGtzb"
+1676711117638	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1676711117784	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1676711117784	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1676711117784	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1676711117784	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1676711120405	Marionette	INFO	Listening on port 61963
+DevTools listening on true
+1676711120633	Marionette	WARN	TLS certificate errors will be ignored for this session
+1676711131595	Marionette	INFO	Stopped listening on port 61963
+1676711259923	geckodriver	INFO	Listening on 127.0.0.1:62220
+1676711262985	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62221" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Husai\\AppData\\Local\\Temp\\rust_mozprofilevUfIuJ"
+1676711263590	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1676711263732	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1676711263732	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1676711263732	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1676711263732	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1676711266484	Marionette	INFO	Listening on port 62228
+DevTools listening on true
+1676711266674	Marionette	WARN	TLS certificate errors will be ignored for this session
+1676711356220	Marionette	INFO	Stopped listening on port 62228
+6711319154	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62318" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Husai\\AppData\\Local\\Temp\\rust_mozprofileUd0qkM"
+1676711319714	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1676711319861	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1676711319861	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1676711319862	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1676711319862	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1676711322521	Marionette	INFO	Listening on port 62325
+DevTools listening on true
+1676711322830	Marionette	WARN	TLS certificate errors will be ignored for this session
+1676711356286	Marionette	INFO	Stopped listening on port 62325
+1676711457271	geckodriver	INFO	Listening on 127.0.0.1:62567
+1676711460317	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62568" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Husai\\AppData\\Local\\Temp\\rust_mozprofileAkPrN7"
+1676711460869	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1676711461015	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1676711461015	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1676711461016	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1676711461016	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1676711463704	Marionette	INFO	Listening on port 62575
+DevTools listening on true
+1676711464007	Marionette	WARN	TLS certificate errors will be ignored for this session
+1676711975390	Marionette	INFO	Stopped listening on port 62575
+6711692848	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62888" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Husai\\AppData\\Local\\Temp\\rust_mozprofileUbidj7"
+1676711693711	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1676711693873	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1676711693873	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1676711693873	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1676711693874	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1676711696794	Marionette	INFO	Listening on port 62893
+DevTools listening on true
+1676711697033	Marionette	WARN	TLS certificate errors will be ignored for this session
+1676711974102	Marionette	INFO	Stopped listening on port 62893
+6711828010	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63066" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Husai\\AppData\\Local\\Temp\\rust_mozprofile9GjmWa"
+1676711828715	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1676711828859	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1676711828859	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1676711828859	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1676711828859	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1676711831454	Marionette	INFO	Listening on port 63071
+DevTools listening on true
+1676711831714	Marionette	WARN	TLS certificate errors will be ignored for this session
+1676711971654	Marionette	INFO	Stopped listening on port 63071
+6711940810	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63209" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Husai\\AppData\\Local\\Temp\\rust_mozprofileZT0Ssq"
+1676711941601	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1676711941759	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1676711941759	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1676711941759	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1676711941759	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1676711944519	Marionette	INFO	Listening on port 63216
+DevTools listening on true
+1676711945004	Marionette	WARN	TLS certificate errors will be ignored for this session
+1676711960911	Marionette	INFO	Stopped listening on port 63216
+1676712015147	geckodriver	INFO	Listening on 127.0.0.1:63323
+1676712018194	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63324" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Husai\\AppData\\Local\\Temp\\rust_mozprofilesh5Ttn"
+1676712018723	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1676712018871	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1676712018871	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1676712018872	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1676712018872	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1676712021972	Marionette	INFO	Listening on port 63332
+DevTools listening on true
+1676712022376	Marionette	WARN	TLS certificate errors will be ignored for this session
+1676712791733	Marionette	INFO	Stopped listening on port 63332
+6712247325	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63536" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Husai\\AppData\\Local\\Temp\\rust_mozprofileTtQy16"
+1676712247866	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1676712248015	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1676712248015	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1676712248015	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1676712248015	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1676712250941	Marionette	INFO	Listening on port 63543
+DevTools listening on true
+1676712251006	Marionette	WARN	TLS certificate errors will be ignored for this session
+1676712792606	Marionette	INFO	Stopped listening on port 63543
+6712487906	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63764" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Husai\\AppData\\Local\\Temp\\rust_mozprofile0X3qEJ"
+1676712488444	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1676712488604	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1676712488605	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1676712488605	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1676712488605	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1676712491385	Marionette	INFO	Listening on port 63772
+DevTools listening on true
+1676712491580	Marionette	WARN	TLS certificate errors will be ignored for this session
+1676712794943	Marionette	INFO	Stopped listening on port 63772
+6712586586	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63905" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Husai\\AppData\\Local\\Temp\\rust_mozprofileog7W38"
+1676712587146	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1676712587301	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1676712587301	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1676712587301	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1676712587301	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1676712589955	Marionette	INFO	Listening on port 63912
+DevTools listening on true
+1676712590254	Marionette	WARN	TLS certificate errors will be ignored for this session
+1676712789560	Marionette	INFO	Stopped listening on port 63912
+6712784504	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64102" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Husai\\AppData\\Local\\Temp\\rust_mozprofileLTvQfK"
+1676712785318	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1676712785473	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1676712785473	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1676712785473	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1676712785473	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1676712788619	Marionette	INFO	Listening on port 64107
+DevTools listening on true
+1676712788684	Marionette	WARN	TLS certificate errors will be ignored for this session
+1676712824156	Marionette	INFO	Stopped listening on port 64107
+1676712868567	geckodriver	INFO	Listening on 127.0.0.1:64217
+1676712871600	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64218" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Husai\\AppData\\Local\\Temp\\rust_mozprofilex9sjok"
+1676712872171	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1676712872314	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1676712872314	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1676712872314	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1676712872314	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1676712874901	Marionette	INFO	Listening on port 64225
+DevTools listening on true
+1676712875269	Marionette	WARN	TLS certificate errors will be ignored for this session
+1676712912840	Marionette	INFO	Stopped listening on port 64225
+1676713127300	geckodriver	INFO	Listening on 127.0.0.1:64467
+1676713130350	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64468" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Husai\\AppData\\Local\\Temp\\rust_mozprofileSgIDXd"
+1676713130920	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1676713131063	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1676713131063	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1676713131063	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1676713131063	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1676713133745	Marionette	INFO	Listening on port 64475
+DevTools listening on true
+1676713134023	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://login.fyers.in/new-sso/6.0/login.min.js?version=5.0, line 1: TypeError: document[_0x3269f8(...)](...) is null
+JavaScript error: resource://devtools/client/framework/toolbox.js, line 1880: TypeError: currentPanel is undefined
+JavaScript error: resource://devtools/client/framework/toolbox.js, line 1880: TypeError: currentPanel is undefined
+JavaScript error: resource://devtools/client/framework/toolbox.js, line 1880: TypeError: currentPanel is undefined
+JavaScript error: resource://devtools/client/framework/toolbox.js, line 1880: TypeError: currentPanel is undefined
+JavaScript warning: resource://devtools/client/shared/demangle.js, line 0: Successfully compiled asm.js code (total compilation time 99ms)
+JavaScript error: resource://devtools/shared/protocol/Front/FrontClassWithSpec.js, line 29: Error: Can not send request 'pickAndFocus' because front 'highlighter' is already destroyed.
+console.error: "Error while calling actor 'stylesheet's method 'getMediaRules'" "can't access dead object"
+console.error: "get ownerNode@resource://devtools/server/actors/stylesheets.js:289:5\ngetCSSRules@resource://devtools/server/actors/stylesheets.js:398:9\n_getMediaRules@resource://devtools/server/actors/stylesheets.js:542:17\ngetMediaRules@resource://devtools/server/actors/stylesheets.js:532:17\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:378:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Protocol error (unknownError): can't access dead object"
+console.error: "Error while calling actor 'stylesheet's method 'getMediaRules'" "can't access dead object"
+console.error: "get ownerNode@resource://devtools/server/actors/stylesheets.js:289:5\ngetCSSRules@resource://devtools/server/actors/stylesheets.js:398:9\n_getMediaRules@resource://devtools/server/actors/stylesheets.js:542:17\ngetMediaRules@resource://devtools/server/actors/stylesheets.js:532:17\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:378:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Error while calling actor 'stylesheet's method 'getMediaRules'" "can't access dead object"
+console.error: "get ownerNode@resource://devtools/server/actors/stylesheets.js:289:5\ngetCSSRules@resource://devtools/server/actors/stylesheets.js:398:9\n_getMediaRules@resource://devtools/server/actors/stylesheets.js:542:17\ngetMediaRules@resource://devtools/server/actors/stylesheets.js:532:17\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:378:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Error while calling actor 'stylesheet's method 'getMediaRules'" "can't access dead object"
+console.error: "get ownerNode@resource://devtools/server/actors/stylesheets.js:289:5\ngetCSSRules@resource://devtools/server/actors/stylesheets.js:398:9\n_getMediaRules@resource://devtools/server/actors/stylesheets.js:542:17\ngetMediaRules@resource://devtools/server/actors/stylesheets.js:532:17\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:378:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Error while calling actor 'stylesheet's method 'getMediaRules'" "can't access dead object"
+console.error: "get ownerNode@resource://devtools/server/actors/stylesheets.js:289:5\ngetCSSRules@resource://devtools/server/actors/stylesheets.js:398:9\n_getMediaRules@resource://devtools/server/actors/stylesheets.js:542:17\ngetMediaRules@resource://devtools/server/actors/stylesheets.js:532:17\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:378:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Protocol error (unknownError): can't access dead object"
+console.error: "Protocol error (unknownError): can't access dead object"
+console.error: "Protocol error (unknownError): can't access dead object"
+console.error: "Error while calling actor 'stylesheet's method 'getMediaRules'" "can't access dead object"
+console.error: "get ownerNode@resource://devtools/server/actors/stylesheets.js:289:5\ngetCSSRules@resource://devtools/server/actors/stylesheets.js:398:9\n_getMediaRules@resource://devtools/server/actors/stylesheets.js:542:17\ngetMediaRules@resource://devtools/server/actors/stylesheets.js:532:17\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:378:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Protocol error (unknownError): can't access dead object"
+console.error: "Error while calling actor 'stylesheet's method 'getMediaRules'" "can't access dead object"
+console.error: "get ownerNode@resource://devtools/server/actors/stylesheets.js:289:5\ngetCSSRules@resource://devtools/server/actors/stylesheets.js:398:9\n_getMediaRules@resource://devtools/server/actors/stylesheets.js:542:17\ngetMediaRules@resource://devtools/server/actors/stylesheets.js:532:17\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:378:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Error while calling actor 'stylesheet's method 'getMediaRules'" "can't access dead object"
+console.error: "get ownerNode@resource://devtools/server/actors/stylesheets.js:289:5\ngetCSSRules@resource://devtools/server/actors/stylesheets.js:398:9\n_getMediaRules@resource://devtools/server/actors/stylesheets.js:542:17\ngetMediaRules@resource://devtools/server/actors/stylesheets.js:532:17\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:378:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Protocol error (unknownError): can't access dead object"
+console.error: "Protocol error (unknownError): can't access dead object"
+console.error: "Protocol error (unknownError): can't access dead object"
+console.error: "Error while calling actor 'stylesheet's method 'getMediaRules'" "can't access dead object"
+console.error: "get ownerNode@resource://devtools/server/actors/stylesheets.js:289:5\ngetCSSRules@resource://devtools/server/actors/stylesheets.js:398:9\n_getMediaRules@resource://devtools/server/actors/stylesheets.js:542:17\ngetMediaRules@resource://devtools/server/actors/stylesheets.js:532:17\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:378:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Protocol error (unknownError): can't access dead object"
+console.error: "Error while calling actor 'stylesheet's method 'getMediaRules'" "can't access dead object"
+console.error: "get ownerNode@resource://devtools/server/actors/stylesheets.js:289:5\ngetCSSRules@resource://devtools/server/actors/stylesheets.js:398:9\n_getMediaRules@resource://devtools/server/actors/stylesheets.js:542:17\ngetMediaRules@resource://devtools/server/actors/stylesheets.js:532:17\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:378:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Protocol error (unknownError): can't access dead object"
+console.error: "Error while calling actor 'stylesheet's method 'getMediaRules'" "can't access dead object"
+console.error: "get ownerNode@resource://devtools/server/actors/stylesheets.js:289:5\ngetCSSRules@resource://devtools/server/actors/stylesheets.js:398:9\n_getMediaRules@resource://devtools/server/actors/stylesheets.js:542:17\ngetMediaRules@resource://devtools/server/actors/stylesheets.js:532:17\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:378:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Error while calling actor 'pagestyle's method 'getUsedFontFaces'" "can't access dead object"
+console.error: "getUsedFontFaces@resource://devtools/server/actors/styles.js:385:29\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:378:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Protocol error (unknownError): can't access dead object"
+console.error: "Could not get the list of font families" "Protocol error (unknownError): can't access dead object"
+console.error: "Error while calling actor 'stylesheet's method 'getMediaRules'" "can't access dead object"
+console.error: "get ownerNode@resource://devtools/server/actors/stylesheets.js:289:5\ngetCSSRules@resource://devtools/server/actors/stylesheets.js:398:9\n_getMediaRules@resource://devtools/server/actors/stylesheets.js:542:17\ngetMediaRules@resource://devtools/server/actors/stylesheets.js:532:17\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:378:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Protocol error (unknownError): can't access dead object"
+console.error: "Error while calling actor 'stylesheet's method 'getMediaRules'" "can't access dead object"
+console.error: "get ownerNode@resource://devtools/server/actors/stylesheets.js:289:5\ngetCSSRules@resource://devtools/server/actors/stylesheets.js:398:9\n_getMediaRules@resource://devtools/server/actors/stylesheets.js:542:17\ngetMediaRules@resource://devtools/server/actors/stylesheets.js:532:17\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:378:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Protocol error (unknownError): can't access dead object"
+console.error: "Error while calling actor 'stylesheet's method 'getMediaRules'" "can't access dead object"
+console.error: "get ownerNode@resource://devtools/server/actors/stylesheets.js:289:5\ngetCSSRules@resource://devtools/server/actors/stylesheets.js:398:9\n_getMediaRules@resource://devtools/server/actors/stylesheets.js:542:17\ngetMediaRules@resource://devtools/server/actors/stylesheets.js:532:17\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:378:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Error while calling actor 'stylesheet's method 'getMediaRules'" "can't access dead object"
+console.error: "get ownerNode@resource://devtools/server/actors/stylesheets.js:289:5\ngetCSSRules@resource://devtools/server/actors/stylesheets.js:398:9\n_getMediaRules@resource://devtools/server/actors/stylesheets.js:542:17\ngetMediaRules@resource://devtools/server/actors/stylesheets.js:532:17\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:378:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Protocol error (unknownError): can't access dead object"
+console.error: "Protocol error (unknownError): can't access dead object"
+console.error: "Error while calling actor 'stylesheet's method 'getMediaRules'" "can't access dead object"
+console.error: "get ownerNode@resource://devtools/server/actors/stylesheets.js:289:5\ngetCSSRules@resource://devtools/server/actors/stylesheets.js:398:9\n_getMediaRules@resource://devtools/server/actors/stylesheets.js:542:17\ngetMediaRules@resource://devtools/server/actors/stylesheets.js:532:17\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:378:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Error while calling actor 'stylesheet's method 'getMediaRules'" "can't access dead object"
+console.error: "get ownerNode@resource://devtools/server/actors/stylesheets.js:289:5\ngetCSSRules@resource://devtools/server/actors/stylesheets.js:398:9\n_getMediaRules@resource://devtools/server/actors/stylesheets.js:542:17\ngetMediaRules@resource://devtools/server/actors/stylesheets.js:532:17\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:378:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Protocol error (unknownError): can't access dead object"
+console.error: "Error while calling actor 'stylesheet's method 'getMediaRules'" "can't access dead object"
+console.error: "get ownerNode@resource://devtools/server/actors/stylesheets.js:289:5\ngetCSSRules@resource://devtools/server/actors/stylesheets.js:398:9\n_getMediaRules@resource://devtools/server/actors/stylesheets.js:542:17\ngetMediaRules@resource://devtools/server/actors/stylesheets.js:532:17\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:378:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Protocol error (unknownError): can't access dead object"
+console.error: "Error while calling actor 'stylesheet's method 'getMediaRules'" "can't access dead object"
+console.error: "get ownerNode@resource://devtools/server/actors/stylesheets.js:289:5\ngetCSSRules@resource://devtools/server/actors/stylesheets.js:398:9\n_getMediaRules@resource://devtools/server/actors/stylesheets.js:542:17\ngetMediaRules@resource://devtools/server/actors/stylesheets.js:532:17\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:378:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Protocol error (unknownError): can't access dead object"
+console.error: "Error while calling actor 'stylesheet's method 'getMediaRules'" "can't access dead object"
+console.error: "get ownerNode@resource://devtools/server/actors/stylesheets.js:289:5\ngetCSSRules@resource://devtools/server/actors/stylesheets.js:398:9\n_getMediaRules@resource://devtools/server/actors/stylesheets.js:542:17\ngetMediaRules@resource://devtools/server/actors/stylesheets.js:532:17\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:378:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Protocol error (unknownError): can't access dead object"
+console.error: "Protocol error (unknownError): can't access dead object"
+console.error: "Error while calling actor 'stylesheet's method 'getMediaRules'" "can't access dead object"
+console.error: "get ownerNode@resource://devtools/server/actors/stylesheets.js:289:5\ngetCSSRules@resource://devtools/server/actors/stylesheets.js:398:9\n_getMediaRules@resource://devtools/server/actors/stylesheets.js:542:17\ngetMediaRules@resource://devtools/server/actors/stylesheets.js:532:17\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:378:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Error while calling actor 'stylesheet's method 'getMediaRules'" "can't access dead object"
+console.error: "get ownerNode@resource://devtools/server/actors/stylesheets.js:289:5\ngetCSSRules@resource://devtools/server/actors/stylesheets.js:398:9\n_getMediaRules@resource://devtools/server/actors/stylesheets.js:542:17\ngetMediaRules@resource://devtools/server/actors/stylesheets.js:532:17\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:378:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Error while calling actor 'stylesheet's method 'getMediaRules'" "can't access dead object"
+console.error: "get ownerNode@resource://devtools/server/actors/stylesheets.js:289:5\ngetCSSRules@resource://devtools/server/actors/stylesheets.js:398:9\n_getMediaRules@resource://devtools/server/actors/stylesheets.js:542:17\ngetMediaRules@resource://devtools/server/actors/stylesheets.js:532:17\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:378:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Error while calling actor 'stylesheet's method 'getMediaRules'" "can't access dead object"
+console.error: "get ownerNode@resource://devtools/server/actors/stylesheets.js:289:5\ngetCSSRules@resource://devtools/server/actors/stylesheets.js:398:9\n_getMediaRules@resource://devtools/server/actors/stylesheets.js:542:17\ngetMediaRules@resource://devtools/server/actors/stylesheets.js:532:17\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:378:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Protocol error (unknownError): can't access dead object"
+console.error: "Protocol error (unknownError): can't access dead object"
+console.error: "Protocol error (unknownError): can't access dead object"
+console.error: "Error while calling actor 'stylesheet's method 'getMediaRules'" "can't access dead object"
+console.error: "get ownerNode@resource://devtools/server/actors/stylesheets.js:289:5\ngetCSSRules@resource://devtools/server/actors/stylesheets.js:398:9\n_getMediaRules@resource://devtools/server/actors/stylesheets.js:542:17\ngetMediaRules@resource://devtools/server/actors/stylesheets.js:532:17\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:378:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Protocol error (unknownError): can't access dead object"
+console.error: "Protocol error (unknownError): can't access dead object"
+console.error: "Error while calling actor 'stylesheet's method 'getMediaRules'" "can't access dead object"
+console.error: "get ownerNode@resource://devtools/server/actors/stylesheets.js:289:5\ngetCSSRules@resource://devtools/server/actors/stylesheets.js:398:9\n_getMediaRules@resource://devtools/server/actors/stylesheets.js:542:17\ngetMediaRules@resource://devtools/server/actors/stylesheets.js:532:17\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:378:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Error while calling actor 'stylesheet's method 'getMediaRules'" "can't access dead object"
+console.error: "get ownerNode@resource://devtools/server/actors/stylesheets.js:289:5\ngetCSSRules@resource://devtools/server/actors/stylesheets.js:398:9\n_getMediaRules@resource://devtools/server/actors/stylesheets.js:542:17\ngetMediaRules@resource://devtools/server/actors/stylesheets.js:532:17\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:378:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Protocol error (unknownError): can't access dead object"
+console.error: "Protocol error (unknownError): can't access dead object"
+console.error: "Error while calling actor 'stylesheet's method 'getMediaRules'" "can't access dead object"
+console.error: "get ownerNode@resource://devtools/server/actors/stylesheets.js:289:5\ngetCSSRules@resource://devtools/server/actors/stylesheets.js:398:9\n_getMediaRules@resource://devtools/server/actors/stylesheets.js:542:17\ngetMediaRules@resource://devtools/server/actors/stylesheets.js:532:17\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:378:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Protocol error (unknownError): can't access dead object"
+console.error: "Error while calling actor 'stylesheet's method 'getMediaRules'" "can't access dead object"
+console.error: "get ownerNode@resource://devtools/server/actors/stylesheets.js:289:5\ngetCSSRules@resource://devtools/server/actors/stylesheets.js:398:9\n_getMediaRules@resource://devtools/server/actors/stylesheets.js:542:17\ngetMediaRules@resource://devtools/server/actors/stylesheets.js:532:17\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:378:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Protocol error (unknownError): can't access dead object"
+console.error: "Error while calling actor 'stylesheet's method 'getMediaRules'" "can't access dead object"
+console.error: "get ownerNode@resource://devtools/server/actors/stylesheets.js:289:5\ngetCSSRules@resource://devtools/server/actors/stylesheets.js:398:9\n_getMediaRules@resource://devtools/server/actors/stylesheets.js:542:17\ngetMediaRules@resource://devtools/server/actors/stylesheets.js:532:17\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:378:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Error while calling actor 'stylesheet's method 'getMediaRules'" "can't access dead object"
+console.error: "get ownerNode@resource://devtools/server/actors/stylesheets.js:289:5\ngetCSSRules@resource://devtools/server/actors/stylesheets.js:398:9\n_getMediaRules@resource://devtools/server/actors/stylesheets.js:542:17\ngetMediaRules@resource://devtools/server/actors/stylesheets.js:532:17\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:378:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Protocol error (unknownError): can't access dead object"
+console.error: "Protocol error (unknownError): can't access dead object"
+console.error: "Error while calling actor 'stylesheet's method 'getMediaRules'" "can't access dead object"
+console.error: "get ownerNode@resource://devtools/server/actors/stylesheets.js:289:5\ngetCSSRules@resource://devtools/server/actors/stylesheets.js:398:9\n_getMediaRules@resource://devtools/server/actors/stylesheets.js:542:17\ngetMediaRules@resource://devtools/server/actors/stylesheets.js:532:17\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:378:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Error while calling actor 'stylesheet's method 'getMediaRules'" "can't access dead object"
+console.error: "get ownerNode@resource://devtools/server/actors/stylesheets.js:289:5\ngetCSSRules@resource://devtools/server/actors/stylesheets.js:398:9\n_getMediaRules@resource://devtools/server/actors/stylesheets.js:542:17\ngetMediaRules@resource://devtools/server/actors/stylesheets.js:532:17\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:378:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Error while calling actor 'stylesheet's method 'getMediaRules'" "can't access dead object"
+console.error: "get ownerNode@resource://devtools/server/actors/stylesheets.js:289:5\ngetCSSRules@resource://devtools/server/actors/stylesheets.js:398:9\n_getMediaRules@resource://devtools/server/actors/stylesheets.js:542:17\ngetMediaRules@resource://devtools/server/actors/stylesheets.js:532:17\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:378:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Error while calling actor 'stylesheet's method 'getMediaRules'" "can't access dead object"
+console.error: "get ownerNode@resource://devtools/server/actors/stylesheets.js:289:5\ngetCSSRules@resource://devtools/server/actors/stylesheets.js:398:9\n_getMediaRules@resource://devtools/server/actors/stylesheets.js:542:17\ngetMediaRules@resource://devtools/server/actors/stylesheets.js:532:17\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:378:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Error while calling actor 'stylesheet's method 'getMediaRules'" "can't access dead object"
+console.error: "get ownerNode@resource://devtools/server/actors/stylesheets.js:289:5\ngetCSSRules@resource://devtools/server/actors/stylesheets.js:398:9\n_getMediaRules@resource://devtools/server/actors/stylesheets.js:542:17\ngetMediaRules@resource://devtools/server/actors/stylesheets.js:532:17\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:378:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Error while calling actor 'stylesheet's method 'getMediaRules'" "can't access dead object"
+console.error: "get ownerNode@resource://devtools/server/actors/stylesheets.js:289:5\ngetCSSRules@resource://devtools/server/actors/stylesheets.js:398:9\n_getMediaRules@resource://devtools/server/actors/stylesheets.js:542:17\ngetMediaRules@resource://devtools/server/actors/stylesheets.js:532:17\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:378:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Protocol error (unknownError): can't access dead object"
+console.error: "Protocol error (unknownError): can't access dead object"
+console.error: "Protocol error (unknownError): can't access dead object"
+console.error: "Protocol error (unknownError): can't access dead object"
+console.error: "Protocol error (unknownError): can't access dead object"
+console.error: "Protocol error (unknownError): can't access dead object"
+console.error: "Error while calling actor 'stylesheet's method 'getMediaRules'" "can't access dead object"
+console.error: "get ownerNode@resource://devtools/server/actors/stylesheets.js:289:5\ngetCSSRules@resource://devtools/server/actors/stylesheets.js:398:9\n_getMediaRules@resource://devtools/server/actors/stylesheets.js:542:17\ngetMediaRules@resource://devtools/server/actors/stylesheets.js:532:17\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:378:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Protocol error (unknownError): can't access dead object"
+console.error: "Error while calling actor 'stylesheet's method 'getMediaRules'" "can't access dead object"
+console.error: "get ownerNode@resource://devtools/server/actors/stylesheets.js:289:5\ngetCSSRules@resource://devtools/server/actors/stylesheets.js:398:9\n_getMediaRules@resource://devtools/server/actors/stylesheets.js:542:17\ngetMediaRules@resource://devtools/server/actors/stylesheets.js:532:17\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:378:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Error while calling actor 'stylesheet's method 'getMediaRules'" "can't access dead object"
+console.error: "get ownerNode@resource://devtools/server/actors/stylesheets.js:289:5\ngetCSSRules@resource://devtools/server/actors/stylesheets.js:398:9\n_getMediaRules@resource://devtools/server/actors/stylesheets.js:542:17\ngetMediaRules@resource://devtools/server/actors/stylesheets.js:532:17\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:378:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Error while calling actor 'stylesheet's method 'getMediaRules'" "can't access dead object"
+console.error: "get ownerNode@resource://devtools/server/actors/stylesheets.js:289:5\ngetCSSRules@resource://devtools/server/actors/stylesheets.js:398:9\n_getMediaRules@resource://devtools/server/actors/stylesheets.js:542:17\ngetMediaRules@resource://devtools/server/actors/stylesheets.js:532:17\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:378:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Error while calling actor 'stylesheet's method 'getMediaRules'" "can't access dead object"
+console.error: "get ownerNode@resource://devtools/server/actors/stylesheets.js:289:5\ngetCSSRules@resource://devtools/server/actors/stylesheets.js:398:9\n_getMediaRules@resource://devtools/server/actors/stylesheets.js:542:17\ngetMediaRules@resource://devtools/server/actors/stylesheets.js:532:17\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:378:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Error while calling actor 'stylesheet's method 'getMediaRules'" "can't access dead object"
+console.error: "get ownerNode@resource://devtools/server/actors/stylesheets.js:289:5\ngetCSSRules@resource://devtools/server/actors/stylesheets.js:398:9\n_getMediaRules@resource://devtools/server/actors/stylesheets.js:542:17\ngetMediaRules@resource://devtools/server/actors/stylesheets.js:532:17\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:378:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Protocol error (unknownError): can't access dead object"
+console.error: "Protocol error (unknownError): can't access dead object"
+console.error: "Protocol error (unknownError): can't access dead object"
+console.error: "Protocol error (unknownError): can't access dead object"
+console.error: "Protocol error (unknownError): can't access dead object"
+console.error: "Error while calling actor 'stylesheet's method 'getMediaRules'" "can't access dead object"
+console.error: "get ownerNode@resource://devtools/server/actors/stylesheets.js:289:5\ngetCSSRules@resource://devtools/server/actors/stylesheets.js:398:9\n_getMediaRules@resource://devtools/server/actors/stylesheets.js:542:17\ngetMediaRules@resource://devtools/server/actors/stylesheets.js:532:17\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:378:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Protocol error (unknownError): can't access dead object"
+console.error: "Error while calling actor 'stylesheet's method 'getMediaRules'" "can't access dead object"
+console.error: "get ownerNode@resource://devtools/server/actors/stylesheets.js:289:5\ngetCSSRules@resource://devtools/server/actors/stylesheets.js:398:9\n_getMediaRules@resource://devtools/server/actors/stylesheets.js:542:17\ngetMediaRules@resource://devtools/server/actors/stylesheets.js:532:17\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:378:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Error while calling actor 'stylesheet's method 'getMediaRules'" "can't access dead object"
+console.error: "get ownerNode@resource://devtools/server/actors/stylesheets.js:289:5\ngetCSSRules@resource://devtools/server/actors/stylesheets.js:398:9\n_getMediaRules@resource://devtools/server/actors/stylesheets.js:542:17\ngetMediaRules@resource://devtools/server/actors/stylesheets.js:532:17\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:378:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Error while calling actor 'stylesheet's method 'getMediaRules'" "can't access dead object"
+console.error: "get ownerNode@resource://devtools/server/actors/stylesheets.js:289:5\ngetCSSRules@resource://devtools/server/actors/stylesheets.js:398:9\n_getMediaRules@resource://devtools/server/actors/stylesheets.js:542:17\ngetMediaRules@resource://devtools/server/actors/stylesheets.js:532:17\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:378:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Error while calling actor 'stylesheet's method 'getMediaRules'" "can't access dead object"
+console.error: "get ownerNode@resource://devtools/server/actors/stylesheets.js:289:5\ngetCSSRules@resource://devtools/server/actors/stylesheets.js:398:9\n_getMediaRules@resource://devtools/server/actors/stylesheets.js:542:17\ngetMediaRules@resource://devtools/server/actors/stylesheets.js:532:17\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:378:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Error while calling actor 'stylesheet's method 'getMediaRules'" "can't access dead object"
+console.error: "get ownerNode@resource://devtools/server/actors/stylesheets.js:289:5\ngetCSSRules@resource://devtools/server/actors/stylesheets.js:398:9\n_getMediaRules@resource://devtools/server/actors/stylesheets.js:542:17\ngetMediaRules@resource://devtools/server/actors/stylesheets.js:532:17\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:378:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Error while calling actor 'stylesheet's method 'getMediaRules'" "can't access dead object"
+console.error: "get ownerNode@resource://devtools/server/actors/stylesheets.js:289:5\ngetCSSRules@resource://devtools/server/actors/stylesheets.js:398:9\n_getMediaRules@resource://devtools/server/actors/stylesheets.js:542:17\ngetMediaRules@resource://devtools/server/actors/stylesheets.js:532:17\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:378:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Error while calling actor 'stylesheet's method 'getMediaRules'" "can't access dead object"
+console.error: "get ownerNode@resource://devtools/server/actors/stylesheets.js:289:5\ngetCSSRules@resource://devtools/server/actors/stylesheets.js:398:9\n_getMediaRules@resource://devtools/server/actors/stylesheets.js:542:17\ngetMediaRules@resource://devtools/server/actors/stylesheets.js:532:17\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:378:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Error while calling actor 'stylesheet's method 'getMediaRules'" "can't access dead object"
+console.error: "get ownerNode@resource://devtools/server/actors/stylesheets.js:289:5\ngetCSSRules@resource://devtools/server/actors/stylesheets.js:398:9\n_getMediaRules@resource://devtools/server/actors/stylesheets.js:542:17\ngetMediaRules@resource://devtools/server/actors/stylesheets.js:532:17\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:378:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Error while calling actor 'stylesheet's method 'getMediaRules'" "can't access dead object"
+console.error: "get ownerNode@resource://devtools/server/actors/stylesheets.js:289:5\ngetCSSRules@resource://devtools/server/actors/stylesheets.js:398:9\n_getMediaRules@resource://devtools/server/actors/stylesheets.js:542:17\ngetMediaRules@resource://devtools/server/actors/stylesheets.js:532:17\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:378:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Error while calling actor 'stylesheet's method 'getMediaRules'" "can't access dead object"
+console.error: "get ownerNode@resource://devtools/server/actors/stylesheets.js:289:5\ngetCSSRules@resource://devtools/server/actors/stylesheets.js:398:9\n_getMediaRules@resource://devtools/server/actors/stylesheets.js:542:17\ngetMediaRules@resource://devtools/server/actors/stylesheets.js:532:17\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:378:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Error while calling actor 'stylesheet's method 'getMediaRules'" "can't access dead object"
+console.error: "get ownerNode@resource://devtools/server/actors/stylesheets.js:289:5\ngetCSSRules@resource://devtools/server/actors/stylesheets.js:398:9\n_getMediaRules@resource://devtools/server/actors/stylesheets.js:542:17\ngetMediaRules@resource://devtools/server/actors/stylesheets.js:532:17\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:378:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Error while calling actor 'stylesheet's method 'getMediaRules'" "can't access dead object"
+console.error: "get ownerNode@resource://devtools/server/actors/stylesheets.js:289:5\ngetCSSRules@resource://devtools/server/actors/stylesheets.js:398:9\n_getMediaRules@resource://devtools/server/actors/stylesheets.js:542:17\ngetMediaRules@resource://devtools/server/actors/stylesheets.js:532:17\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:378:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Error while calling actor 'stylesheet's method 'getMediaRules'" "can't access dead object"
+console.error: "get ownerNode@resource://devtools/server/actors/stylesheets.js:289:5\ngetCSSRules@resource://devtools/server/actors/stylesheets.js:398:9\n_getMediaRules@resource://devtools/server/actors/stylesheets.js:542:17\ngetMediaRules@resource://devtools/server/actors/stylesheets.js:532:17\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:378:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Error while calling actor 'stylesheet's method 'getMediaRules'" "can't access dead object"
+console.error: "get ownerNode@resource://devtools/server/actors/stylesheets.js:289:5\ngetCSSRules@resource://devtools/server/actors/stylesheets.js:398:9\n_getMediaRules@resource://devtools/server/actors/stylesheets.js:542:17\ngetMediaRules@resource://devtools/server/actors/stylesheets.js:532:17\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:378:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Error while calling actor 'stylesheet's method 'getMediaRules'" "can't access dead object"
+console.error: "get ownerNode@resource://devtools/server/actors/stylesheets.js:289:5\ngetCSSRules@resource://devtools/server/actors/stylesheets.js:398:9\n_getMediaRules@resource://devtools/server/actors/stylesheets.js:542:17\ngetMediaRules@resource://devtools/server/actors/stylesheets.js:532:17\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:378:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Error while calling actor 'stylesheet's method 'getMediaRules'" "can't access dead object"
+console.error: "get ownerNode@resource://devtools/server/actors/stylesheets.js:289:5\ngetCSSRules@resource://devtools/server/actors/stylesheets.js:398:9\n_getMediaRules@resource://devtools/server/actors/stylesheets.js:542:17\ngetMediaRules@resource://devtools/server/actors/stylesheets.js:532:17\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:378:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Error while calling actor 'stylesheet's method 'getMediaRules'" "can't access dead object"
+console.error: "get ownerNode@resource://devtools/server/actors/stylesheets.js:289:5\ngetCSSRules@resource://devtools/server/actors/stylesheets.js:398:9\n_getMediaRules@resource://devtools/server/actors/stylesheets.js:542:17\ngetMediaRules@resource://devtools/server/actors/stylesheets.js:532:17\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:378:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Protocol error (unknownError): can't access dead object"
+console.error: "Protocol error (unknownError): can't access dead object"
+console.error: "Error while calling actor 'stylesheet's method 'getMediaRules'" "can't access dead object"
+console.error: "Protocol error (unknownError): can't access dead object"
+console.error: "get ownerNode@resource://devtools/server/actors/stylesheets.js:289:5\ngetCSSRules@resource://devtools/server/actors/stylesheets.js:398:9\n_getMediaRules@resource://devtools/server/actors/stylesheets.js:542:17\ngetMediaRules@resource://devtools/server/actors/stylesheets.js:532:17\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:378:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Error while calling actor 'stylesheet's method 'getMediaRules'" "can't access dead object"
+console.error: "get ownerNode@resource://devtools/server/actors/stylesheets.js:289:5\ngetCSSRules@resource://devtools/server/actors/stylesheets.js:398:9\n_getMediaRules@resource://devtools/server/actors/stylesheets.js:542:17\ngetMediaRules@resource://devtools/server/actors/stylesheets.js:532:17\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:378:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Error while calling actor 'stylesheet's method 'getMediaRules'" "can't access dead object"
+console.error: "get ownerNode@resource://devtools/server/actors/stylesheets.js:289:5\ngetCSSRules@resource://devtools/server/actors/stylesheets.js:398:9\n_getMediaRules@resource://devtools/server/actors/stylesheets.js:542:17\ngetMediaRules@resource://devtools/server/actors/stylesheets.js:532:17\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:378:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Error while calling actor 'stylesheet's method 'getMediaRules'" "can't access dead object"
+console.error: "get ownerNode@resource://devtools/server/actors/stylesheets.js:289:5\ngetCSSRules@resource://devtools/server/actors/stylesheets.js:398:9\n_getMediaRules@resource://devtools/server/actors/stylesheets.js:542:17\ngetMediaRules@resource://devtools/server/actors/stylesheets.js:532:17\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:378:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Error while calling actor 'stylesheet's method 'getMediaRules'" "can't access dead object"
+console.error: "get ownerNode@resource://devtools/server/actors/stylesheets.js:289:5\ngetCSSRules@resource://devtools/server/actors/stylesheets.js:398:9\n_getMediaRules@resource://devtools/server/actors/stylesheets.js:542:17\ngetMediaRules@resource://devtools/server/actors/stylesheets.js:532:17\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:378:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Protocol error (unknownError): can't access dead object"
+console.error: "Protocol error (unknownError): can't access dead object"
+console.error: "Protocol error (unknownError): can't access dead object"
+console.error: "Protocol error (unknownError): can't access dead object"
+console.error: "Protocol error (unknownError): can't access dead object"
+console.error: "Protocol error (unknownError): can't access dead object"
+console.error: "Protocol error (unknownError): can't access dead object"
+console.error: "Protocol error (unknownError): can't access dead object"
+console.error: "Protocol error (unknownError): can't access dead object"
+console.error: "Protocol error (unknownError): can't access dead object"
+console.error: "Protocol error (unknownError): can't access dead object"
+console.error: "Error while calling actor 'stylesheet's method 'getMediaRules'" "can't access dead object"
+console.error: "get ownerNode@resource://devtools/server/actors/stylesheets.js:289:5\ngetCSSRules@resource://devtools/server/actors/stylesheets.js:398:9\n_getMediaRules@resource://devtools/server/actors/stylesheets.js:542:17\ngetMediaRules@resource://devtools/server/actors/stylesheets.js:532:17\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:378:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Protocol error (unknownError): can't access dead object"
+console.error: "Protocol error (unknownError): can't access dead object"
+console.error: "Protocol error (unknownError): can't access dead object"
+console.error: "Protocol error (unknownError): can't access dead object"
+console.error: "Protocol error (unknownError): can't access dead object"
+console.error: "Protocol error (unknownError): can't access dead object"
+console.error: "Protocol error (unknownError): can't access dead object"
+console.error: "Protocol error (unknownError): can't access dead object"
+console.error: "Error while calling actor 'stylesheet's method 'getMediaRules'" "can't access dead object"
+console.error: "get ownerNode@resource://devtools/server/actors/stylesheets.js:289:5\ngetCSSRules@resource://devtools/server/actors/stylesheets.js:398:9\n_getMediaRules@resource://devtools/server/actors/stylesheets.js:542:17\ngetMediaRules@resource://devtools/server/actors/stylesheets.js:532:17\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:378:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Protocol error (unknownError): can't access dead object"
+console.error: "Error while calling actor 'stylesheet's method 'getMediaRules'" "can't access dead object"
+console.error: "get ownerNode@resource://devtools/server/actors/stylesheets.js:289:5\ngetCSSRules@resource://devtools/server/actors/stylesheets.js:398:9\n_getMediaRules@resource://devtools/server/actors/stylesheets.js:542:17\ngetMediaRules@resource://devtools/server/actors/stylesheets.js:532:17\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:378:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Protocol error (unknownError): can't access dead object"
+console.error: "Error while calling actor 'stylesheet's method 'getMediaRules'" "can't access dead object"
+console.error: "get ownerNode@resource://devtools/server/actors/stylesheets.js:289:5\ngetCSSRules@resource://devtools/server/actors/stylesheets.js:398:9\n_getMediaRules@resource://devtools/server/actors/stylesheets.js:542:17\ngetMediaRules@resource://devtools/server/actors/stylesheets.js:532:17\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:378:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Protocol error (unknownError): can't access dead object"
+console.error: "Protocol error (unknownError): can't access dead object"
+console.error: "Error while calling actor 'stylesheet's method 'getMediaRules'" "can't access dead object"
+console.error: "get ownerNode@resource://devtools/server/actors/stylesheets.js:289:5\ngetCSSRules@resource://devtools/server/actors/stylesheets.js:398:9\n_getMediaRules@resource://devtools/server/actors/stylesheets.js:542:17\ngetMediaRules@resource://devtools/server/actors/stylesheets.js:532:17\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:378:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Protocol error (unknownError): can't access dead object"
+console.error: "Error while calling actor 'stylesheet's method 'getMediaRules'" "can't access dead object"
+console.error: "get ownerNode@resource://devtools/server/actors/stylesheets.js:289:5\ngetCSSRules@resource://devtools/server/actors/stylesheets.js:398:9\n_getMediaRules@resource://devtools/server/actors/stylesheets.js:542:17\ngetMediaRules@resource://devtools/server/actors/stylesheets.js:532:17\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:378:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Error while calling actor 'stylesheet's method 'getMediaRules'" "can't access dead object"
+console.error: "get ownerNode@resource://devtools/server/actors/stylesheets.js:289:5\ngetCSSRules@resource://devtools/server/actors/stylesheets.js:398:9\n_getMediaRules@resource://devtools/server/actors/stylesheets.js:542:17\ngetMediaRules@resource://devtools/server/actors/stylesheets.js:532:17\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:378:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Error while calling actor 'stylesheet's method 'getMediaRules'" "can't access dead object"
+console.error: "get ownerNode@resource://devtools/server/actors/stylesheets.js:289:5\ngetCSSRules@resource://devtools/server/actors/stylesheets.js:398:9\n_getMediaRules@resource://devtools/server/actors/stylesheets.js:542:17\ngetMediaRules@resource://devtools/server/actors/stylesheets.js:532:17\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:378:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Protocol error (unknownError): can't access dead object"
+console.error: "Error while calling actor 'stylesheet's method 'getMediaRules'" "can't access dead object"
+console.error: "get ownerNode@resource://devtools/server/actors/stylesheets.js:289:5\ngetCSSRules@resource://devtools/server/actors/stylesheets.js:398:9\n_getMediaRules@resource://devtools/server/actors/stylesheets.js:542:17\ngetMediaRules@resource://devtools/server/actors/stylesheets.js:532:17\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:378:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Protocol error (unknownError): can't access dead object"
+console.error: "Protocol error (unknownError): can't access dead object"
+console.error: "Protocol error (unknownError): can't access dead object"
+console.error: "Error while calling actor 'stylesheet's method 'getMediaRules'" "can't access dead object"
+console.error: "get ownerNode@resource://devtools/server/actors/stylesheets.js:289:5\ngetCSSRules@resource://devtools/server/actors/stylesheets.js:398:9\n_getMediaRules@resource://devtools/server/actors/stylesheets.js:542:17\ngetMediaRules@resource://devtools/server/actors/stylesheets.js:532:17\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:378:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Error while calling actor 'stylesheet's method 'getMediaRules'" "can't access dead object"
+console.error: "get ownerNode@resource://devtools/server/actors/stylesheets.js:289:5\ngetCSSRules@resource://devtools/server/actors/stylesheets.js:398:9\n_getMediaRules@resource://devtools/server/actors/stylesheets.js:542:17\ngetMediaRules@resource://devtools/server/actors/stylesheets.js:532:17\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:378:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Protocol error (unknownError): can't access dead object"
+console.error: "Error while calling actor 'stylesheet's method 'getMediaRules'" "can't access dead object"
+console.error: "Protocol error (unknownError): can't access dead object"
+console.error: "get ownerNode@resource://devtools/server/actors/stylesheets.js:289:5\ngetCSSRules@resource://devtools/server/actors/stylesheets.js:398:9\n_getMediaRules@resource://devtools/server/actors/stylesheets.js:542:17\ngetMediaRules@resource://devtools/server/actors/stylesheets.js:532:17\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:378:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Protocol error (unknownError): can't access dead object"
+console.error: "Error while calling actor 'stylesheet's method 'getMediaRules'" "can't access dead object"
+console.error: "get ownerNode@resource://devtools/server/actors/stylesheets.js:289:5\ngetCSSRules@resource://devtools/server/actors/stylesheets.js:398:9\n_getMediaRules@resource://devtools/server/actors/stylesheets.js:542:17\ngetMediaRules@resource://devtools/server/actors/stylesheets.js:532:17\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:378:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Error while calling actor 'stylesheet's method 'getText'" "can't access dead object"
+console.error: "Protocol error (unknownError): can't access dead object"
+console.error: "getSheetText@resource://devtools/server/actors/stylesheets.js:158:7\n_getText@resource://devtools/server/actors/stylesheets.js:509:12\ngetText@resource://devtools/server/actors/stylesheets.js:492:17\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:378:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Protocol error (unknownError): can't access dead object"
+console.error: "Protocol error (unknownError): can't access dead object"
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x58000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+1676713261649	Marionette	INFO	Stopped listening on port 64475
+1676713266740	geckodriver	INFO	Listening on 127.0.0.1:64624
+1676713269784	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64625" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Husai\\AppData\\Local\\Temp\\rust_mozprofilevli33F"
+1676713270424	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1676713270568	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1676713270568	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1676713270568	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1676713270569	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1676713273211	Marionette	INFO	Listening on port 64632
+DevTools listening on true
+1676713273475	Marionette	WARN	TLS certificate errors will be ignored for this session
+1676713301477	Marionette	INFO	Stopped listening on port 64632
+1676713644693	geckodriver	INFO	Listening on 127.0.0.1:64995
+1676713647735	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64996" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Husai\\AppData\\Local\\Temp\\rust_mozprofileIrGyas"
+1676713648308	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1676713648453	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1676713648453	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1676713648453	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1676713648453	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1676713651164	Marionette	INFO	Listening on port 65004
+DevTools listening on true
+1676713651406	Marionette	WARN	TLS certificate errors will be ignored for this session
+1676713687590	Marionette	INFO	Stopped listening on port 65004
+1676725433880	geckodriver	INFO	Listening on 127.0.0.1:50390
+1676725436945	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50391" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Husai\\AppData\\Local\\Temp\\rust_mozprofileXQCLv9"
+1676725438254	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1676725438421	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1676725438421	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1676725438421	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1676725438422	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1676725441757	Marionette	INFO	Listening on port 50397
+DevTools listening on true
+1676725441857	Marionette	WARN	TLS certificate errors will be ignored for this session
+1676725504859	Marionette	INFO	Stopped listening on port 50397
+1676725510540	geckodriver	INFO	Listening on 127.0.0.1:50455
+1676725513605	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50456" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Husai\\AppData\\Local\\Temp\\rust_mozprofilenuVANP"
+1676725514171	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1676725514313	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1676725514313	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1676725514313	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1676725514313	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1676725516787	Marionette	INFO	Listening on port 50461
+DevTools listening on true
+1676725517304	Marionette	WARN	TLS certificate errors will be ignored for this session
