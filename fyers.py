@@ -10,7 +10,7 @@ from creds import *
 
 
 def get_access_token(auth_code):
-    appSession = accessToken.SessionModel(client_id=app_id, secret_key="", grant_type="authorization_code")
+    appSession = accessToken.SessionModel(client_id=app_id, secret_key=secret_key, grant_type="authorization_code")
     appSession.set_token(auth_code)
     response = appSession.generate_token()["access_token"]
     return response
